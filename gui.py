@@ -9,7 +9,7 @@ class carGUI:
 
     def __init__(self, master):
         self.master = master
-        master.title("A simple GUI")
+        master.title("Hackers UI Project")
 
         # Initialize Canvas
         self.canv = Canvas(master)
